@@ -1,0 +1,40 @@
+/* header
+{
+    background-image: url(src/assets/images/car.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+} */
+/* nav
+{
+    position: fixed;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+} */
+/* .logo
+{
+    float: left;
+    size: 100px;
+} */
+
+/* nav.black
+{
+    background-color:white;
+    text-decoration: black;
+} */
+
+hr.rounded {
+    border-top: 1px solid black;
+    border-radius: 5px;
+  }

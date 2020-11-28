@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face
+{
+    font-family: primaryText1;
+    src: url(assets/fonts/Philosopher/Philosopher-Regular.ttf) format('truetype');    
+}
+
+@font-face
+{
+    font-family: secondaryText;
+    src: url(assets/fonts/Permanent_Marker/PermanentMarker-Regular.ttf) format('truetype');
+}
+
+@font-face
+{
+    font-family: thirdText;
+    src : url(assets/fonts//Righteous/Righteous-Regular.ttf) format('truetype');
+}
+
+.primaryText1
+{
+    font-family: primaryText1;
+}
+
+.secondaryText
+{
+    font-family: secondaryText;
+}
+
+.thirdText
+{
+    font-family: thirdText;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
